@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @g2ku
 - 👀 I’m interested in PHP
-- 🌱 I’m currently learning Git , MVC , Laravel and etc.
 - 💞️ I’m looking to collaborate on idnkw
 
 <!---
